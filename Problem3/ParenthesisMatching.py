@@ -1,5 +1,5 @@
 
-# Given index of an opening patenthesis in sentence, this function returns the index of the
+# Given index of an opening parenthesis in sentence, this function returns the index of the
 # corresponding closing parenthesis
 def match(sentence, index):
 
