@@ -1,7 +1,7 @@
 Problem: Openers and Closers Validator
 
 Problem Definition:
-Given an input string, check if the openers and closers are properly nested.
+Given a string as input, implement a function to check if the openers and closers are properly nested.
 ‘{’, ‘(’, ’[’ are openers.
 ‘}’, ’)’, ’]’ are closers.
 Example: 
